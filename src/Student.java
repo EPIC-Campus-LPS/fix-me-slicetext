@@ -1,5 +1,8 @@
 import java.util.*;
 
+/**
+ * A Student object
+ */
 public class Student
 {
     private String name;
